@@ -4,9 +4,9 @@
   "author": "Simon Boudrias <admin@simonboudrias.com>",
   "license": "MIT",
   "engines": {
-    "node": ">=14.18.0"
+    "node": ">=18.0.0"
   },
-  "packageManager": "yarn@3.6.1",
+  "packageManager": "yarn@4.0.2",
   "keywords": [
     "answer",
     "answers",
